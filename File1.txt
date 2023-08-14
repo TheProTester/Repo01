@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world, I am learning Git Again...
+=======
+Hello world 
+I am learning Git ...
+>>>>>>> 5820c9934df8359f885584086778e4411dfbd66d
