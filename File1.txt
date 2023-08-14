@@ -1,3 +1,9 @@
 Hello world 
+<<<<<<< HEAD
 I am learning Git Again...
 Updating all the code in Master- Done by Me
+=======
+I am learning Git ...
+
+Added more codes form Rahul, Suhail and Vinod.. Reviewd and merged into the master code
+>>>>>>> b460d7fff8160e64fe5bec593340e1dc90495d67
